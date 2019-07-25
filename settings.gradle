@@ -1,0 +1,6 @@
+rootProject.name = 'EnglishCat'
+include 'service'
+include 'controller'
+include 'dal'
+include 'dal'
+
